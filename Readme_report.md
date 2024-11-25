@@ -18,7 +18,7 @@ The purpose of this analysis is to create a binary classification model using de
 
 - **Neurons, layers, and activation functions selected for the neural network model and rationale:** The model consists of three hidden layers with 80, 30, and 1 neurons, respectively, and ReLU activation functions. The output layer uses a sigmoid activation function for binary classification. The structure was chosen to provide a balance between complexity and the potential for overfitting, while maintaining the ability to learn complex patterns in the data.
 This model did not achive desired accuracy of 75%.
-The accuracy achived was 72.3%.
+The accuracy achived was 72.5%.
 
 **In this project**, we tested four different models. The first three models in Starter_code.ipynb are excluded the EIN and NAME columns while applying different numbers of neurons, layers, and binning adjustments as follows:
 ****Attempt 1****: Kept the same structure but varied the number of neurons in each layer and increased the epochs from 50 to 100.
