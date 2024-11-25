@@ -32,7 +32,7 @@ Accuracy improved  to 73.14%.
 Accuracy decreased to 72.7%.
 
 
-##### The details of the 3 first attempts are provided in the AlphabetSoupCharity_Optimisation.ipynb.
+##### The details of the 3 first attempts are provided in the Starter_code.ipynb.
 * Attempt4: the final attempt that can be find in the AlphabetSoupCharity_Optimisation.ipynb has the best accuracy of 78.56%.
 
 
