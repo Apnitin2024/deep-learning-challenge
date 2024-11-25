@@ -22,14 +22,14 @@ The accuracy achived was 72.3%.
 
 **In this project**, we tested four different models. The first three models in Starter_code.ipynb are excluded the EIN and NAME columns while applying different numbers of neurons, layers, and binning adjustments as follows:
 ****Attempt 1****: Kept the same structure but varied the number of neurons in each layer and increased the epochs from 50 to 100.
-Accuracy increased slightly to 72.7%.
+Accuracy increased slightly to 72.5%.
 ****Attempt 2****: Optimized the structure using Keras Tuner.
 Allowed the activation function to choose between ReLU, sigmoid, and tanh.
 Kept sigmoid as the activation function for the final layer.
 Allowed the number of neurons to range from 6 to about 75.
-Accuracy improved to 73.1%.
+Accuracy improved  to 73.14%.
 ****Attempt 3****: Used fewer neurons (less than the number of features) with a sigmoid activation function for non-input layers.
-Accuracy decreased to 72.6%.
+Accuracy decreased to 72.7%.
 
 
 ##### The details of the 3 first attempts are provided in the AlphabetSoupCharity_Optimisation.ipynb.
