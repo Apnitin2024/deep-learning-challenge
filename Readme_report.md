@@ -40,7 +40,7 @@ Our **Feature variable(s) for the model:** The feature variables for the model i
 **Target variable(s) for the model:** The target variable for the model is `IS_SUCCESSFUL`. The model consists of three hidden layers with 14, 7, and 1 neurons, respectively, The output layer uses a sigmoid activation function for binary classification and used Relu for other layers.
 
 
-- **Achievement of the target model performance:** The model achieved a target accuracy of 78.5% on the fourth attempt. However, several optimization attempts were undertaken, involving adjustments to the input data, changes to the neural network architecture, and modifications to the training regimen.
+- **Achievement of the target model performance:** The model achieved a target accuracy of 78.56% on the fourth attempt. However, several optimization attempts were undertaken, involving adjustments to the input data, changes to the neural network architecture, and modifications to the training regimen.
 
 
 - **Steps taken in attempts to increase model performance:** To increase model performance, the following steps were taken:
